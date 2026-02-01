@@ -1,0 +1,5 @@
+{
+  "name": "Java Crawler Reverse Engineering Expert",
+  "description": "A high-end static analysis tool for Java developers to reverse-engineer HTML interaction logic and generate Apache HttpClient code snippets.",
+  "requestFramePermissions": []
+}
